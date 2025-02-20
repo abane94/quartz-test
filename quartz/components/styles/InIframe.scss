@@ -1,0 +1,22 @@
+.in-iframe #quartz-body {
+    >.sidebar {
+        display: none !important;
+    }
+    >footer {
+        display: none !important;
+    }
+    .page-header {
+        // display: none !important;
+    }
+    .page-footer {
+        display: none !important;
+    }
+
+    .breadcrumb-container {
+        display: none !important;
+    }
+
+    .content-meta {
+        display: none !important;
+    }
+}

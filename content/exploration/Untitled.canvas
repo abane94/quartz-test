@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"500cd0cc3319533d","type":"file","file":"map.png","x":260,"y":-120,"width":400,"height":300},
+		{"id":"d960a8fbb4a0d54c","type":"file","file":"exploration/Running the site.md","x":-473,"y":-40,"width":400,"height":400},
+		{"id":"2af20d393ee0cb13","type":"text","text":"asdf __bold__ ","x":-155,"y":-285,"width":250,"height":60},
+		{"id":"c8be9151a523dd0f","x":1020,"y":-360,"width":400,"height":400,"type":"file","file":"index.md"},
+		{"id":"c54f245e26ddadda","type":"text","text":"Orange","x":-1060,"y":-180,"width":186,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"fe413c2690abc2f3","fromNode":"c54f245e26ddadda","fromSide":"right","toNode":"d960a8fbb4a0d54c","toSide":"top"},
+		{"id":"150a41f898c051ff","fromNode":"c54f245e26ddadda","fromSide":"bottom","toNode":"500cd0cc3319533d","toSide":"left"},
+		{"id":"4adc64a640b23887","fromNode":"c8be9151a523dd0f","fromSide":"left","toNode":"2af20d393ee0cb13","toSide":"right"}
+	]
+}

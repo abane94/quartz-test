@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e0c2de5109e799f2","type":"text","text":"This is a test canvas","x":-200,"y":-200,"width":250,"height":60},
+		{"id":"2782f35216f32f08","type":"text","text":"Find out they dont","x":-233,"y":-90,"width":250,"height":60,"color":"6"},
+		{"id":"9ad427bcfca18764","type":"text","text":"See if canvases work","x":-540,"y":-90,"width":250,"height":60,"color":"3"},
+		{"id":"30df75d128675c0b","type":"text","text":"Search the web for solutions!","x":100,"y":-90,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"8af13f13c19c577f","fromNode":"9ad427bcfca18764","fromSide":"right","toNode":"2782f35216f32f08","toSide":"left"},
+		{"id":"902b18b0d78ec499","fromNode":"2782f35216f32f08","fromSide":"right","toNode":"30df75d128675c0b","toSide":"left"}
+	]
+}
